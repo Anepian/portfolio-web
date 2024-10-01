@@ -65,7 +65,7 @@ export default function Portafolio() {
       <header className="sticky top-0 bg-white dark:bg-gray-800 bg-opacity-90 dark:bg-opacity-90 backdrop-filter backdrop-blur-lg z-50 shadow-sm">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <nav className="flex justify-between items-center h-16">
-            <h1 className="text-xl md:text-2xl font-bold text-gray-800 dark:text-white">Alex Lupian1</h1>
+            <h1 className="text-xl md:text-2xl font-bold text-gray-800 dark:text-white">Alex Lupian</h1>
             <div className="hidden md:flex items-center space-x-4">
               <Link href="#sobre-mi" className="text-gray-600 dark:text-gray-300 hover:text-gray-800 dark:hover:text-white transition-colors">{t.about}</Link>
               <Link href="#proyectos" className="text-gray-600 dark:text-gray-300 hover:text-gray-800 dark:hover:text-white transition-colors">{t.projects}</Link>
